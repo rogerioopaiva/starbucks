@@ -1,4 +1,8 @@
-<h1>
+<h1 align="center">
+    Starbucks
+</h1>
+
+<h1 align="center">
     <img src="assets/star.gif">
 </h1>
 
@@ -12,7 +16,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Starbucks** é uma 
+O projeto **Starbucks** é um redesign do website da starbucks utilizando html, css e javascript.
 
 ---
 
@@ -31,10 +35,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/rogerioopaiva/starbucksapp.git
+    $ git clone https://github.com/rogerioopaiva/starbucks.git
 
     # Entrar no diretório
-    $ cd starbucksapp
+    $ cd starbucks
 
     # abrir o arquivo index.html diretamente no browser ou através de um servidor local como live server
     $ abrir index.html
